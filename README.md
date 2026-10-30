@@ -5,6 +5,17 @@
 ### ASP.NET Core MVC ile Kişisel Portfolyo ve Yönetim Paneli
 
 .NET 6, Entity Framework Core ve SQL Server kullanılarak geliştirilen; kişisel portfolyo sayfasını, içerik yönetimi ekranlarını ve yönetim panelini bir araya getiren web uygulaması.
+## 📸 Proje Görselleri
+
+![Proje Görseli 1](images/{31474E31-7AD7-4C6F-88CB-44E0D2DAE1D5}.png)
+
+![Proje Görseli 2](images/{B53F04CA-4F41-4672-BBE6-3330C7C2A71A}.png)
+
+![Proje Görseli 3](images/{B765EB9A-2E6A-4660-BC02-43840365F772}.png)
+
+![Proje Görseli 4](images/{C2FA6576-32F6-435D-9E00-F18C5A686090}.png)
+
+![Proje Görseli 5](images/{EB982EC8-3C6C-4FFF-99FE-8A039F831509}.png)
 
 ![.NET](https://img.shields.io/badge/.NET-6.0-512BD4?logo=dotnet&logoColor=white)
 ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core-MVC-512BD4)
